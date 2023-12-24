@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o ".\OutPut\bsp.o" --omf_browse ".\OutPut\bsp.crf" --depend ".\OutPut\bsp.d" "BSP\bsp.c"

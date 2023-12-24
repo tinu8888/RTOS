@@ -1,0 +1,14 @@
+.\OutPut\os_cpu_c.o: ARM\Os_cpu_c.c
+.\OutPut\os_cpu_c.o: ARM\..\APP\config.h
+.\OutPut\os_cpu_c.o: ARM\..\APP\Includes.h
+.\OutPut\os_cpu_c.o: ARM\..\APP\..\uCosii\os_cpu.h
+.\OutPut\os_cpu_c.o: ARM\..\APP\os_cfg.h
+.\OutPut\os_cpu_c.o: ARM\..\APP\..\uCosii\ucos_ii.h
+.\OutPut\os_cpu_c.o: C:\Keil\ARM\RV31\INC\string.h
+.\OutPut\os_cpu_c.o: ARM\..\APP\LPC214x.h
+.\OutPut\os_cpu_c.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\OutPut\os_cpu_c.o: C:\Keil\ARM\RV31\INC\ctype.h
+.\OutPut\os_cpu_c.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\OutPut\os_cpu_c.o: C:\Keil\ARM\RV31\INC\setjmp.h
+.\OutPut\os_cpu_c.o: C:\Keil\ARM\RV31\INC\rt_misc.h
+.\OutPut\os_cpu_c.o: ARM\..\APP\target.h

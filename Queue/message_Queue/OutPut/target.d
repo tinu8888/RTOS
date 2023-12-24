@@ -1,0 +1,15 @@
+.\OutPut\target.o: APP\target.c
+.\OutPut\target.o: APP\config.h
+.\OutPut\target.o: APP\Includes.h
+.\OutPut\target.o: APP\..\uCosii\os_cpu.h
+.\OutPut\target.o: APP\os_cfg.h
+.\OutPut\target.o: APP\..\uCosii\ucos_ii.h
+.\OutPut\target.o: C:\Keil\ARM\RV31\INC\string.h
+.\OutPut\target.o: APP\LPC214x.h
+.\OutPut\target.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\OutPut\target.o: C:\Keil\ARM\RV31\INC\ctype.h
+.\OutPut\target.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\OutPut\target.o: C:\Keil\ARM\RV31\INC\setjmp.h
+.\OutPut\target.o: C:\Keil\ARM\RV31\INC\rt_misc.h
+.\OutPut\target.o: APP\target.h
+.\OutPut\target.o: C:\Keil\ARM\INC\Philips\LPC21XX.H

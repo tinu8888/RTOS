@@ -1,0 +1,9 @@
+.\OutPut\main1.o: main1.c
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\LPC21xx.H
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\uCOS_II.h
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\OS_CPU.h
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\OS_CFG.h
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\OS_CPU.h
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\lcd.h
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\key.h
+.\OutPut\main1.o: C:\Keil\ARM\INC\Philips\LPC22xx.h

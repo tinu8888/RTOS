@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Admin\Desktop\RTOS_18-19\message_Queue_RSP\LPC214X_uCosii.uvproj
+Project File Date:  07/26/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling target.c...
+C:\Keil\ARM\INC\Philips\LPC21XX.H(86): warning:  #47-D: incompatible redefinition of macro "MEMMAP" (declared at line 37 of "APP\LPC214x.h")
+compiling main.c...
+C:\Keil\ARM\INC\Philips\LPC21XX.h(86): warning:  #47-D: incompatible redefinition of macro "MEMMAP" (declared at line 37 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(142): warning:  #47-D: incompatible redefinition of macro "SCS" (declared at line 76 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(206): warning:  #47-D: incompatible redefinition of macro "U0ACR" (declared at line 237 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(207): warning:  #47-D: incompatible redefinition of macro "U0FDR" (declared at line 238 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(223): warning:  #47-D: incompatible redefinition of macro "U1ACR" (declared at line 255 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(224): warning:  #47-D: incompatible redefinition of macro "U1FDR" (declared at line 256 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(253): warning:  #47-D: incompatible redefinition of macro "SSPCR0" (declared at line 290 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(254): warning:  #47-D: incompatible redefinition of macro "SSPCR1" (declared at line 291 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(255): warning:  #47-D: incompatible redefinition of macro "SSPDR" (declared at line 292 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(256): warning:  #47-D: incompatible redefinition of macro "SSPSR" (declared at line 293 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(257): warning:  #47-D: incompatible redefinition of macro "SSPCPSR" (declared at line 294 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(258): warning:  #47-D: incompatible redefinition of macro "SSPIMSC" (declared at line 295 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(259): warning:  #47-D: incompatible redefinition of macro "SSPRIS" (declared at line 296 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(260): warning:  #47-D: incompatible redefinition of macro "SSPMIS" (declared at line 297 of "APP\LPC214x.h")
+C:\Keil\ARM\INC\Philips\LPC22xx.h(261): warning:  #47-D: incompatible redefinition of macro "SSPICR" (declared at line 298 of "APP\LPC214x.h")
+APP\main.c(51): warning:  #175-D: subscript out of range
+APP\main.c(44): warning:  #177-D: variable "start" was declared but never referenced
+APP\main.c(59): warning:  #550-D: variable "txmsg" was set but never used
+APP\main.c(90): warning:  #513-D: a value of type "unsigned char *" cannot be assigned to an entity of type "char *"
+APP\main.c(84): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=17032 RO-data=476 RW-data=100 ZI-data=3532  
+FromELF: creating hex file...
+".\OutPut\LPC214X_uCosii.axf" - 0 Error(s), 21 Warning(s).
